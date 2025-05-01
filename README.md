@@ -22,8 +22,8 @@
 ---
 
 ### 🤖 Linguagens e Tecnologias
- 
-### Principais habilidades:
+
+ ### Principais habilidades:
 <img 
     align="left" 
     alt="HTML"
