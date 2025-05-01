@@ -136,11 +136,16 @@
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
+/><br>
+
+---
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{NightHudson}/count.svg" /></p> 
-<br></div>       
+<br></div>  
+
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0746F3&height=120&section=footer"/>
 
 
 
